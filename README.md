@@ -3,7 +3,7 @@ PC微信4.0.3.39以后版本HOOK获取dbkey
 
 ## 感谢
 文章: [微信4.0防撤回+提醒 (符号恢复+字符串解密)](https://bbs.kanxue.com/thread-286611.htm)  
-C++代码来源：https://github.com/EEEEhex/RevokeHook(https://github.com/EEEEhex/RevokeHook)
+C++代码来源：https://github.com/EEEEhex/RevokeHook
 
 ## 说明
 >微信4.0.3.39以后dbkey使用后内存就会释放，以往的搜索等方法不再能够找到dbkey.  
