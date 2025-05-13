@@ -14,7 +14,7 @@ C++代码来源：https://github.com/EEEEhex/RevokeHook
 1.下载或自编译mmmojo_64.dll文件.  
 2.将微信安装目录下的mmmojo_64.dll文件重命名为mmmojo_64_true.dll.  
 3.复制下载的mmmojo_64.dll文件到微信安装目录下.  
-4.打开微信登录即可，生成的dbkey在微信目录dbkey.txt文件中.  
+4.打开微信登录即可，获取到的dbkey在微信目录dbkey.txt文件中.  
 
 
 
