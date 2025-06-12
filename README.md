@@ -1,6 +1,13 @@
 # DbkeyHook
 PC微信4.0.3.39以后版本HOOK获取dbkey
 
+## DbkeyHookUI
+>2025年6月12日新增，理论上支持所有微信4.0以上版本   
+>获取方式更简单、更安全，不修改、不注入dll文件   
+>exe下载：https://github.com/gzygood/DbkeyHook/releases/tag/v1.0.0
+>
+![image](https://github.com/user-attachments/assets/9bf427f8-9a5b-4d7f-94e6-7e6f86610fee)  
+
 ## 感谢
 文章: [微信4.0防撤回+提醒 (符号恢复+字符串解密)](https://bbs.kanxue.com/thread-286611.htm)  
 C++代码来源：https://github.com/EEEEhex/RevokeHook
