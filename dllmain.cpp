@@ -166,7 +166,7 @@ void HookStart(HMODULE hModule)
         return;
     }
     g_imgbase = (uint64_t)weixin_dll_base;
-    g_hook_offset = 0x0C0A9A6;// 这个是4.0.5.7的        4.0.3.43 = 0x0BC91A6    4.0.5.13=0xC0CC76
+    g_hook_offset = 0x0C0A9A6;// 这个是4.0.5.7的        4.0.3.43 = 0x0BC91A6    4.0.5.13=0xC0CC76   4.0.6.17=0xCF1F16
 
     //读取Hook点原机器码
     uint64_t hook_addr = g_imgbase + g_hook_offset;
