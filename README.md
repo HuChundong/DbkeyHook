@@ -4,14 +4,14 @@ PC微信4.0.3.39以后版本HOOK获取dbkey
 ## DbkeyHookCMD
 >2025年7月1日新增，理论上支持所有微信4.0以上版本   
 >获取方式更简单、更安全，不修改、不注入dll文件   
->exe下载：https://github.com/gzygood/DbkeyHook/releases/tag/v1.0.1
+>exe下载：https://github.com/gzygood/DbkeyHook/releases/tag/v1.0.2
 >
 ![cmd](https://github.com/user-attachments/assets/b16fbdaf-55e3-4ade-adca-758d466c04a6)
 
 ## DbkeyHookUI
 >2025年6月12日新增，理论上支持所有微信4.0以上版本   
 >获取方式更简单、更安全，不修改、不注入dll文件   
->exe下载：https://github.com/gzygood/DbkeyHook/releases/tag/v1.0.1
+>exe下载：https://github.com/gzygood/DbkeyHook/releases/tag/v1.0.2
 >
 ![image](https://github.com/user-attachments/assets/9bf427f8-9a5b-4d7f-94e6-7e6f86610fee)  
 
